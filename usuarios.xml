@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="usuarios.xsd">
+    <usuario>
+        <nombreUsuario>emilioLopez34</nombreUsuario>
+        <email>donEmilio@gmail.com</email>
+        <telefono>+34652346423</telefono>
+        <codigoPostal>41018</codigoPostal>
+        <contrasena>Emilio005!</contrasena>
+    </usuario>
+    <usuario>
+        <nombreUsuario>esanchez06</nombreUsuario>
+        <email>guillermo.eugui@gmail.com</email>
+        <telefono>+34722397213</telefono>
+        <codigoPostal>41018</codigoPostal>
+        <contrasena>g3uGu!2024</contrasena>
+    </usuario>
+</usuarios>
